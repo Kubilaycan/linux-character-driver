@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+.char_driver.*
+Module.symvers
+.Module.*
+modules.order
+.modules.*
+char_driver_test
